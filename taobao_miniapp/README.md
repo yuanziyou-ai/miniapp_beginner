@@ -24,7 +24,7 @@ serverless提供了API的逻辑层，数据库采用云mysql。
 
 ### 淘宝小程序
 淘宝服务市场创业导图
-![输入图片说明](../images/mindimage.png)
+![输入图片说明](miniapp_beginner/taobao_miniapp/images/mindimage.png)
 
 淘宝目前支持的云开发模式，包括元函数模式和云应用模式。云函数主要是现在云原生serverless的模式，灵活构建，弹性升级方便快速扩展。云应用就是以docker形式开发，通过容器部署，上传包管理的形式发布代码。后面我主要展示serverless的模式，因为不管从淘宝，阿里云还是其他各平台推荐来看，以后servlerless的形式将会是一个重点。
 ![输入图片说明](mind1.png)
