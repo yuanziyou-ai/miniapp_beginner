@@ -41,7 +41,7 @@ serverless提供了API的逻辑层，数据库采用云mysql。
 
 如果有兴趣沟通学习创业朋友，可以加好友。
 
-![输入图片说明](images/霍大侠微信二维码.jpg)
+ <img  src="images/霍大侠微信二维码.jpg"  width="50%">
 <picture>
-  <img  src="images/霍大侠微信二维码.jpg">
+  <img  src="images/霍大侠微信二维码.jpg"  width="40%">
 </picture>
